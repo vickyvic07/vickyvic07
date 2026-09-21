@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Vignesh R — Software Developer" width="100%"/>
+<img src="7bb5affd-a038-4cda-acc1-f13a542e040a.png" alt="Vignesh R — Software Developer" width="100%"/>
 
 <br/>
 
